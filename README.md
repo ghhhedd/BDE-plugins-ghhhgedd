@@ -1,6 +1,6 @@
 # BDEngine-plugins-ghhhgedd
 
-[EN](README.md) | [RU](README.ru.md)
+EN | [RU](README.ru.md)
 
 My personal collection of custom plugins for **BDEngine**. I will be creating and uploading various plugins here over time.
 
